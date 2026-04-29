@@ -1,4 +1,4 @@
-# Projeto-de-Medidas---TS-Sports
+# Projeto de Medidas - TS-Sports
 
 Sobre o Projeto
 
